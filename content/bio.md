@@ -1,5 +1,1 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
-
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
-
-My current research focuses on investigating the mathematical principles of natural philosophy.
+Enlong Shang is a first-year Ph.D. student of the Optimization Group at Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS), advised by [Prof. Ya-xiang Yuan](https://lsec.cc.ac.cn/~yyx/). Before this, he received the Bachelor degree (2025) in computational mathematics at School of Mathematics and Statistics, Wuhan University. His current research focuses on optimization. Here is my [CV].

@@ -1,27 +1,66 @@
+
 type = "card"
-title = "Awards"
-description = "Honors and awards I have received."
+title = "Grants & Awards"
+description = "Grants and awards I have received."
+
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Hua Luogeng Scholarship"
+subtitle = "Academy of Mathematics and Systems Science"
 date = "2025"
-content = "Description of the award."
+content = "华罗庚奖学金"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "NSFC Young Student Basic Research Program"
+subtitle = "National Natural Science Foundation of China"
 date = "2024"
-content = "Description of the award."
+content = "国家自然科学基金青年学生基础研究项目"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Luojia Role Model of the Year (Top 10 Students University-wide)"
+subtitle = "Wuhan University"
+date = "2025"
+content = "榜样珞珈年度人物"
+
+[[items]]
+title = "Outstanding Graduation Student"
+subtitle = "Wuhan University"
+date = "2025"
+content = "优秀毕业生"
+
+[[items]]
+title = "Outstanding Undergraduate Thesis"
+subtitle = "Wuhan University"
+date = "2025"
+content = "本科优秀毕业论文"
+
+[[items]]
+title = "Outstanding Undergraduate Innovation Project"
+subtitle = "Wuhan University"
+date = "2024"
+content = "优秀本科生创新项目"
+
+
+[[items]]
+title = "Xiao Wencan Mathematics Scholarship"
+subtitle = "Wuhan University"
+date = "2024"
+content = "肖文灿数学奖学金"
+
+[[items]]
+title = "KPMG Scholarship"
+subtitle = "Wuhan University"
 date = "2023"
-content = "Description of the award."
+content = "毕马威奖学金"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National Scholarship"
+subtitle = "Wuhan University"
 date = "2022"
-content = "Description of the award."
+content = "国家奖学金"
+
+[[items]]
+title = "First-Class Academic Scholarship"
+subtitle = "Wuhan University"
+date = "2022-2024"
+content = "甲等奖学金"
